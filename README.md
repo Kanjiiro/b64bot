@@ -12,6 +12,9 @@ An easy Telegram inline bot to encrypt and decrypt base64 messages
 # Config:
 * Put the telegram token in the variable TOKEN
 * Enjoy
+# How does is work:
+* Encrypt: <code>@[your bot name] [massage to encrypt in base64]</code>
+* Decrypt: <code>@[your bot name] -d [massage to dencrypt from base64]</code>
 # Working on:
 * Ubuntu
 * Raspbian
